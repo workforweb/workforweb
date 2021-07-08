@@ -2,7 +2,7 @@
 
 - :zap: I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
-- earth_asia: I am currently sharing a little bit of my knowledge to the world
+- :earth_africa: I am currently sharing a little bit of my knowledge to the world
 
 <!--
 **workforweb/workforweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
