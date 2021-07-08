@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there i am 👋
 
-# Javascript / Nodejs full stack developer | PHP | SEO 
-======================================================
+# Javascript / Nodejs full stack developer | PHP | SEO 👋
+
+Specialize in backend development and search engine optimization, working with javascript / nodejs.
+Also have working experience in frontend technologies like reactjs and bootstrap.
 
 - :zap: I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
